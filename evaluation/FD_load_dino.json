@@ -1,0 +1,14 @@
+{
+    "anterior teeth No FD_precision": 0.5366,
+    "anterior teeth No FD_precision_50": 0.5736,
+    "anterior teeth No FD_precision_75": 0.5624,
+    "anterior teeth FD_precision": 0.4968,
+    "anterior teeth FD_precision_50": 0.5794,
+    "anterior teeth FD_precision_75": 0.5403,
+    "bbox_mAP": 0.5165,
+    "bbox_mAP_50": 0.5765,
+    "bbox_mAP_75": 0.5513,
+    "bbox_mAP_s": -1.0,
+    "bbox_mAP_m": -1.0,
+    "bbox_mAP_l": 0.5167
+}

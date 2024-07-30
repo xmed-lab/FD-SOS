@@ -1,0 +1,20 @@
+{
+    "posterior teeth_precision": NaN,
+    "posterior teeth_precision_50": NaN,
+    "posterior teeth_precision_75": NaN,
+    "anterior teeth_precision": NaN,
+    "anterior teeth_precision_50": NaN,
+    "anterior teeth_precision_75": NaN,
+    "anterior teeth No FD_precision": 0.7109,
+    "anterior teeth No FD_precision_50": 0.7334,
+    "anterior teeth No FD_precision_75": 0.7169,
+    "anterior teeth FD_precision": 0.6084,
+    "anterior teeth FD_precision_50": 0.6601,
+    "anterior teeth FD_precision_75": 0.6245,
+    "bbox_mAP": 0.6597,
+    "bbox_mAP_50": 0.6967,
+    "bbox_mAP_75": 0.6707,
+    "bbox_mAP_s": -1.0,
+    "bbox_mAP_m": -1.0,
+    "bbox_mAP_l": 0.6597
+}
