@@ -1,5 +1,5 @@
 fairscale==0.4.13
-nltk==3.8.1
+nltk==3.10.4
 pycocoevalcap
 transformers==4.37.0
 wandb
